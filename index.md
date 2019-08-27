@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+- Learning about CS careers
+- Learning how to use GitHub
+- No midterms or final exams
+- Easy way to raise GPA
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,10 +20,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Learning about CS careers
-- Learning how to use GitHub
-- No midterms or final exams
-- Easy way to raise GPA
+
 
 1. Numbered
 2. List
